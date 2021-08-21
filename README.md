@@ -4,7 +4,7 @@ Simple port scanner using Python, with a built-in GUI.
 
 ## GUI Walkthrough
 
-[Main Window](docs/mainwindow.png)
+![Main Window](docs/mainwindow.png)
 
 1- Search bar, accept both host name or IP adress
 
