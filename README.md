@@ -20,7 +20,7 @@ Simple port scanner using Python, with a built-in GUI.
 
 7- Scan all ports
 
-8- Retry scan for ports with no answer scans
+8- Retry scan for ports with no answer
 
 9- Clear button for the answers window
 
